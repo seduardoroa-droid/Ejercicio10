@@ -1,0 +1,10 @@
+
+Evento: nuevo reporte registrado de informacion recoleccion basuras.
+
+Acción: enviar mensaje a Telegram acerca de la recoleccion del sectopr del parque principal.
+
+Mensaje: “Nuevo reporte recibido. Ejecucion recoleccion basuras del sector parque principal
+ Revisar sistema.”
+
+Información que no debe enviarse: nombres completos, documentos de identidad, 
+direcciones, teléfonos, claves o datos sensibles.

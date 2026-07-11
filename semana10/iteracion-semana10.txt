@@ -1,0 +1,15 @@
+. Como coordinador de veeduría quiero recibir un 
+mensaje automático en Telegram cada vez que se registre un caso grave para atenderlo de
+ inmediato.
+
+•	Historia D (Transparencia): > Como ciudadano quiero ver el estado actualizado de mis 
+reportes enviados para saber si ya se están tomando medidas.
+
+
+es que son importantes dado que me gust saber que todo este en orden 
+
+Terminado 
+
+Finalizacion actividad
+cumplido objetivo
+realizacion exitosa del trabajo

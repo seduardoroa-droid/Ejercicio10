@@ -1,0 +1,13 @@
+
+•	Historia A (Reporte básico): > Como ciudadano quiero reportar un daño en el espacio 
+público con una foto y descripción para que la junta comunal conozca la situación.
+
+•	Historia B (Gestión/Consulta): > Como líder comunitario quiero ver un listado de todos
+ los reportes activos para organizar las jornadas de solución.
+
+•	Historia C (Alertas en tiempo real): > Como coordinador de veeduría quiero recibir un 
+mensaje automático en Telegram cada vez que se registre un caso grave para atenderlo de
+ inmediato.
+
+•	Historia D (Transparencia): > Como ciudadano quiero ver el estado actualizado de mis 
+reportes enviados para saber si ya se están tomando medidas.
